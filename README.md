@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom1305
-- 👀 I’m interested in Cybersecurity and Programming
-- 🌱 I’m currently working in Networking Security
+- 👀 I’m interested in Cybersecurity, Networking Engineer and Programming
+- 🌱 I’m currently working in Network and Security
 - 💞️ I’m looking to collaborate in many projects I can do
 - 📫 How to reach me:
      Just Contact me in this email: tomc52664@gmail.com
